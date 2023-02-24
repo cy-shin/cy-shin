@@ -32,10 +32,14 @@
 </br>
 
 <div align=center>
-  <h3>:mailbox_with_mail: Email & Blog :pencil:</h3>
+  <h3>:mailbox_with_mail: Portfolio & Blog :pencil:</h3>
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  <a href="https://github.com/cy-shin/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-EA4335?style=for-the-badge&logo=none&logoColor=white">
+  </a>
+  <a href="https://beepbeepdoyo.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  </a>
 </div>
